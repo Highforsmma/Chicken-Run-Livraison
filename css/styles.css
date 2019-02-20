@@ -1,0 +1,69 @@
+/* navbar */
+/* Header */
+#title {
+  height: 70vh;
+  min-height: 200px;
+  background-image: url('../images/header.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+h1 {
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 600;
+}
+
+.container-fluid {
+  padding: 3% 7%;
+}
+
+.title-text {
+  color: #FBFCFC;
+  line-height: 1.7em;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif ;
+}
+
+/* Shipping */
+.shipping-text {
+text-align: center;
+padding: 3% 0;
+font-family: 'Open Sans', sans-serif ;
+}
+#shipping {
+  height: 20em;
+}
+
+/* Menu */
+#menu {
+background-color: #212121;
+height: 20em;
+}
+.menu-text {
+  text-align: center;
+  color: #FBFCFC;
+  padding: 3% 0;
+  font-family: 'Open Sans', sans-serif ;
+
+}
+
+/* contact-us */
+#contact-us{
+  height: 20em;
+}
+.contact-text{
+  text-align: center;
+  padding: 3% 0 ;
+}
+/* Footer */
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #eeeeee;
+}
+
+.social-icon {
+  margin: 20px 10px;
+  font-size: 1.5em;
+  color: #000000;
+}
