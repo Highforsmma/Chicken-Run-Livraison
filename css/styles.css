@@ -1,69 +1,52 @@
-/* navbar */
-/* Header */
+/* nav bar  */
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* title */
 #title {
-  height: 70vh;
-  min-height: 200px;
-  background-image: url('../images/header.webp');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-h1 {
-  font-family: 'Noto Sans', sans-serif;
-  font-weight: 600;
+  background-color: #010101;
+  height: 500px;
 }
 
-.container-fluid {
-  padding: 3% 7%;
+.halal-img{
+  height: 100px;
+  float: right;
+margin-top: 30px;
 }
 
-.title-text {
-  color: #FBFCFC;
-  line-height: 1.7em;
+.welcome-text {
   text-align: center;
-  font-family: 'Open Sans', sans-serif ;
+  color: white;
+  padding: 3%
+
 }
 
-/* Shipping */
-.shipping-text {
-text-align: center;
-padding: 3% 0;
-font-family: 'Open Sans', sans-serif ;
-}
-#shipping {
-  height: 20em;
+/* delivery */
+.delivery-img {
+width: 100%;
+height: 100%;
 }
 
-/* Menu */
+/* map */
+
+/* menu */
 #menu {
-background-color: #212121;
-height: 20em;
-}
-.menu-text {
-  text-align: center;
-  color: #FBFCFC;
-  padding: 3% 0;
-  font-family: 'Open Sans', sans-serif ;
-
+min-height: 270px;
+background-color: #010101;
+color: white;
+text-align: center;
 }
 
-/* contact-us */
-#contact-us{
-  height: 20em;
-}
-.contact-text{
+/* order Now  */
+.phoneNumber{
+  height: 400px;
   text-align: center;
-  padding: 3% 0 ;
 }
-/* Footer */
+/* footer */
 #footer {
-  padding: 7% 15%;
   text-align: center;
-  background-color: #eeeeee;
-}
-
-.social-icon {
-  margin: 20px 10px;
-  font-size: 1.5em;
-  color: #000000;
 }
