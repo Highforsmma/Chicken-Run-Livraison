@@ -29,6 +29,16 @@ margin-top: 30px;
 .delivery-img {
 width: 100%;
 }
+.delivery-text {
+  text-align: center;
+}
+
+
+/* platforms */
+.platforms-img {
+height: 50%;
+border-radius: 100%;
+}
 
 /* map */
 
