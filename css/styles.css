@@ -8,23 +8,19 @@
 
 /* title */
 #title {
-  background-color: #010101;
+  background-color: white;
   height: 500px;
-}
-
-.halal-img{
-  height: 100px;
-  float: right;
-margin-top: 30px;
 }
 
 .welcome-text {
   text-align: center;
-  color: white;
+  color: black;
   padding: 3%
 
 }
-
+.fried-chicken-img {
+  width: 100%;
+}
 /* delivery */
 .delivery-img {
 width: 100%;
