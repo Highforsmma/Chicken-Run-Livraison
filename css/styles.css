@@ -1,26 +1,28 @@
 /* nav bar  */
 .nav-item {
   padding: 0 18px;
+font-family: 'Montserrat', sans-serif;
 }
 .nav-link {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 
+h1{
+  font-family: 'Staatliches', cursive;
+}
+
+p{
+  line-height: 1.6rem;
+}
 /* title */
 #title {
-  background-color: white;
   height: 500px;
 }
 
-.welcome-text {
-  text-align: center;
-  color: black;
-  padding: 3%
-
-}
 .fried-chicken-img {
   width: 100%;
 }
+
 /* delivery */
 .delivery-img {
 width: 100%;
@@ -29,14 +31,9 @@ width: 100%;
   text-align: center;
 }
 
-
-/* platforms */
-.platforms-img {
-height: 50%;
-border-radius: 100%;
+.callButton {
+  font-family: 'Montserrat', sans-serif;
 }
-
-/* map */
 
 /* menu */
 #menu {
