@@ -15,10 +15,20 @@ p{
   line-height: 1.6rem;
 }
 /* title */
-#title {
-  height: 500px;
+
+.masthead {
+  background-image: url("../images/Wooden-board-chicken-run-livraison-2.jpg");
+   height: 70%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
 }
 
+#title {
+  text-align: center;
+  color: white;
+}
 .fried-chicken-img {
   width: 100%;
 }
@@ -27,7 +37,7 @@ p{
 .delivery-img {
 width: 100%;
 }
-.delivery-text {
+#delivery{
   text-align: center;
 }
 
@@ -35,6 +45,13 @@ width: 100%;
   font-family: 'Montserrat', sans-serif;
 }
 
+/* find us  */
+.appLogo {
+  border: 1px solid #ddd; 
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
 /* menu */
 #menu {
 min-height: 270px;
