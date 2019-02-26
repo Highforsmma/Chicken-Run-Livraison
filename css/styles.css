@@ -36,7 +36,7 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/hero-image-chicken-run-livraison.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/hero-image-chicken-run-livraison.webp");
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -48,7 +48,7 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .titleText {
-  margin-top: 5%;
+  margin-top: 3%;
   color: #fff;
 }
 
@@ -102,7 +102,7 @@ text-align: center;
 }
 
 .galleyImage {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/gallery-chicken-run-livraison.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/gallery-chicken-run-livraison.webp");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -114,7 +114,7 @@ text-align: center;
 
 
 .menuImage {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/menu-chicken-run-livraison.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/menu-chicken-run-livraison.webp");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
