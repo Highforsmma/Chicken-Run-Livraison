@@ -1,10 +1,14 @@
 /* nav bar  */
+.navbar {
+  padding: 0 0 0 4.5rem;
+}
 .nav-item {
   padding: 0 18px;
 font-family: 'Montserrat', sans-serif;
 }
 .nav-link {
   font-size: 1.1rem;
+  font-weight: bold;
 }
 
 h1{
@@ -14,6 +18,10 @@ h1{
 p{
   line-height: 1.6rem;
   font-family: 'Montserrat', sans-serif;
+}
+
+h5{
+    font-family: 'Montserrat', sans-serif;
 }
 /* title */
 
@@ -30,16 +38,31 @@ p{
   text-align: center;
   color: white;
 }
-.fried-chicken-img {
+.friedChicken {
   width: 100%;
 }
 
+.titleText {
+  margin-top: 5%;
+}
+
+/* buttons */
+.callButton {
+  margin: 5% 3% 5% 0;
+}
 /* delivery */
 .delivery-img {
-width: 70%;
+width: 30%;
+margin-bottom: 1.7rem;
 }
+
 #delivery{
+  padding: 3% 7%;
   text-align: center;
+}
+
+.deliveryBox{
+  padding: 5%;
 }
 
 .callButton {
@@ -68,12 +91,8 @@ color: white;
 text-align: center;
 }
 
-.menuImage{
-  width: 100%;
-}
-
 /* order Now  */
-.phoneNumber{
+#orderNow{
   text-align: center;
   padding: 3% 0;
 }
